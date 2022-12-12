@@ -1,0 +1,14 @@
+**/node_modules
+/mongodb
+
+# IDEs and editors
+/.idea
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+.DS_Store
